@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Java
+*.class
+bin/
+
+# Eclipse / IDE
+.classpath
+.project
+.settings/
+# Backup / local gitignore files
+.gitignore.save
+.gitignore_global
+.gitignore_global.save
+
+
